@@ -6,6 +6,8 @@ Experienced iOS Developer focused on building clean, user-friendly apps using Sw
 
 Committed to writing maintainable code following Clean Code principles and MVVM/MVC patterns. Experienced in full app lifecycle and Agile methodologies.
 
+📍 Buenos Aires, Argentina
+
 ## 🛠️ Core Skills
 ```
 📱 iOS Development: Swift, Objective-C, UIKit, SwiftUI
