@@ -12,8 +12,8 @@ Experienced iOS Developer focused on building clean, user-friendly apps using Sw
 🏛️ Architecture: MVVM, MVC, Clean Code
 🎨 UI Development: Storyboards, Xibs, Auto Layout
 🔄 Backend: RESTful APIs, Firebase, Core Data
-⚙️ Tools: Xcode, Git, GitHub, Jira, App Store Connect
-📊 Methodologies: Agile, Scrum (3 years)
+⚙️ Tools: Xcode, Git, GitHub, Jira, Trello, App Store Connect
+📊 Methodologies: Agile, Scrum
 🌐 Languages: English, Spanish
 ```
 ## 🤝 Soft Skills
