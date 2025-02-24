@@ -2,9 +2,7 @@
 
 ## iOS Developer | Software Engineer Student | 3 Years Experience
 
-Experienced iOS Developer focused on building clean, user-friendly apps using Swift, UIKit, and SwiftUI. Strong team collaborator who enjoys sharing ideas and helping teammates solve problems. Skilled in Swift development with iOS fundamentals including Programmatic UI, Storyboards and Xibs.
-
-Committed to writing maintainable code following Clean Code principles and MVVM/MVC patterns. Experienced in full app lifecycle and Agile methodologies.
+Experienced iOS Developer focused on building clean, user-friendly apps using Swift, UIKit, and SwiftUI. Strong team collaborator who enjoys sharing ideas and helping teammates solve problems. Skilled in Swift development with iOS fundamentals including Programmatic UI, Storyboards and Xibs. Experienced in full app lifecycle and Agile methodologies.
 
 📍 Buenos Aires, Argentina
 
